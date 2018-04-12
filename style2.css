@@ -1,0 +1,41 @@
+.imagen-responsive{
+	width: 100%;
+	max-width: 100px;
+}
+
+.firstImage{
+	background-image: url("images/bg.jpeg");
+	width: 100%;
+	height:auto;
+	margin-top: -20px;
+}
+
+.imagenes-carrusel{
+	width: 35%;
+}
+
+.custom-container{
+	padding-top: 10vh;
+	padding-bottom: 10vh;
+}
+
+.centered{
+	text-align: center;
+}
+
+.inscribete-button{
+	margin-top: 5vh !important;
+	margin-bottom: 5vh !important;
+	margin-left: 2vw;
+	margin-right: 2vw;
+}
+
+.texto{
+	color:white !important;
+	padding-top: 3vh;
+	padding-bottom: 3vh;
+}
+
+.carousel-control{
+	opacity: 0 !important;
+}
